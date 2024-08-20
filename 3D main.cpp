@@ -6,7 +6,7 @@
 #include <stdlib.h>
 #include <time.h>
 //#include "cpgplot.h"
-
+//test
 using namespace std;
 
     int main ()
